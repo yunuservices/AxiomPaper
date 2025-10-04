@@ -1,5 +1,6 @@
 name: $name
 version: $version
+folia-supported: true
 main: com.moulberry.axiom.AxiomPaper
 description: $description
 authors:
