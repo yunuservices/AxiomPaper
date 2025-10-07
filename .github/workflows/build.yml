@@ -6,7 +6,7 @@ on:
   push:
     branches: [ "**" ]
 
-  jobs:
+jobs:
   build-and-release:
     runs-on: ubuntu-latest
     steps:
